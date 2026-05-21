@@ -67,13 +67,18 @@ I'm a **Security Researcher** and **Full-Stack Developer** passionate about find
 
 ## 🚀 Featured Projects
 
+### 💼 Full-Stack SaaS
+- **[SaaS Starter Kit](https://github.com/Chaplin69-hash/saas-starter-kit)** — Production-ready SaaS boilerplate with auth, Stripe, React, Docker
+- **[REST API Template](https://github.com/Chaplin69-hash/api-template)** — Production-ready API with JWT, MongoDB, Swagger, Docker, 45 tests
+
+### 🤖 Telegram Bots
+- **[Telegram Bot Framework](https://github.com/Chaplin69-hash/telegram-bot)** — Modern bot with grammY, MongoDB, Stripe, admin panel, i18n
+- **[ProjectBish](https://github.com/Chaplin69-hash/ProjectBish)** — Telegram UserBot
+- **[One4uBot](https://github.com/Chaplin69-hash/One4uBot)** — Telegram automation
+
 ### 🔐 Security Tools
 - **[Recon Automation](https://github.com/Chaplin69-hash)** — Automated reconnaissance toolkit
 - **[Bug Bounty Reports](https://github.com/Chaplin69-hash)** — Collection of security findings
-
-### 🤖 Telegram Bots
-- **[ProjectBish](https://github.com/Chaplin69-hash/ProjectBish)** — Telegram UserBot
-- **[One4uBot](https://github.com/Chaplin69-hash/One4uBot)** — Telegram automation
 
 ---
 
